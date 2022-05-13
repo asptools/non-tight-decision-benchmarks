@@ -1,0 +1,10 @@
+size(30).
+forbidden(8,28).
+forbidden(26,25).
+forbidden(11,25).
+forbidden(1,24).
+forbidden(21,26).
+forbidden(15,2).
+forbidden(23,23).
+forbidden(18,26).
+forbidden(12,7).

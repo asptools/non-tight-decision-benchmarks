@@ -1,0 +1,16 @@
+size(100).
+forbidden(16,31).
+forbidden(55,81).
+forbidden(100,93).
+forbidden(89,74).
+forbidden(87,40).
+forbidden(19,99).
+forbidden(51,17).
+forbidden(66,75).
+forbidden(41,58).
+forbidden(14,65).
+forbidden(30,88).
+forbidden(56,73).
+forbidden(89,81).
+forbidden(61,70).
+forbidden(43,1).
